@@ -2,8 +2,8 @@
 // @name         Lessons Overview
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @description  Display number of radical, kanji and vocab lessons pending per level
+// @author       Joe Wilson
 // @match        https://www.wanikani.com/dashboard
 // @icon         https://www.google.com/s2/favicons?domain=wanikani.com
 // @grant        none
@@ -82,16 +82,16 @@
 
         }
 
-        // Lessons from level 8 - Radical: 0, Kanji: 0, Vocabulary: 0
-        // Lessons from level 9 - Radical: 0, Kanji: 15, Vocabulary: 30
-
-        var log = lessons.current; 
-        console.log("Lessons from level " + wkof.user.level + " - Radical: " + log.radical.length + ", Kanji: " + log.kanji.length + ", Vocabulary: " + log.vocabulary.length);
-
-        var log = lessons.previous; 
-        console.log("Lessons from level " + String(wkof.user.level - 1) + " - Radical: " + log.radical.length + ", Kanji: " + log.kanji.length + ", Vocabulary: " + log.vocabulary.length);
-
+        update_ui(lessons);
     }
 
+    function update_ui(lessons) {
+        // To Do: Update UI properly
+        console.log("Lessons from level " + wkof.user.level + " - Radical: " + lessons.current.radical.length + ", Kanji: " + lessons.current.kanji.length + ", Vocabulary: " + lessons.current.vocabulary.length);
+        if (log.radical > 0 || log.kanji > 0 || log.vocabulary > 0) {
+            console.log("Lessons from level " + String(wkof.user.level - 1) + " - Radical: " + lessons.previous.radical.length + ", Kanji: " + lessons.previous.kanji.length + ", Vocabulary: " + lessons.previous.vocabulary.length);
+        }
+        
+    }
 
 })();

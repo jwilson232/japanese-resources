@@ -1,0 +1,11 @@
+// ==UserScript==
+// @name         Lessons Overview
+// @namespace    http://tampermonkey.net/
+// @version      0.1
+// @description  try to take over the world!
+// @author       You
+// @match        https://www.wanikani.com/dashboard
+// @icon         https://www.google.com/s2/favicons?domain=wanikani.com
+// @grant        none
+// @require      file:///Users/joewilson/Documents/code/wanikani-lesson-level-counter/js/lesson_overview.js
+// ==/UserScript==
