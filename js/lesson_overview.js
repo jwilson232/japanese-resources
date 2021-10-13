@@ -86,12 +86,31 @@
     }
 
     function update_ui(lessons) {
-        // To Do: Update UI properly
-        console.log("Lessons from level " + wkof.user.level + " - Radical: " + lessons.current.radical.length + ", Kanji: " + lessons.current.kanji.length + ", Vocabulary: " + lessons.current.vocabulary.length);
-        if (log.radical > 0 || log.kanji > 0 || log.vocabulary > 0) {
-            console.log("Lessons from level " + String(wkof.user.level - 1) + " - Radical: " + lessons.previous.radical.length + ", Kanji: " + lessons.previous.kanji.length + ", Vocabulary: " + lessons.previous.vocabulary.length);
+        var output = "Level " + wkof.user.level + 
+                     " - R: " + lessons.current.radical.length + 
+                     ", K: " + lessons.current.kanji.length + 
+                     ", V: " + lessons.current.vocabulary.length;
+
+        if (lessons.previous.radical > 0 || lessons.previous.kanji > 0 || lessons.previous.vocabulary > 0) {
+            output = "Lessons " + String(wkof.user.level - 1) + 
+                     " - R: " + lessons.previous.radical.length + 
+                     ", K: " + lessons.previous.kanji.length + 
+                     ", V: " + lessons.previous.vocabulary.length + 
+                     " | " + output
         }
         
+        var html = document.getElementsByClassName("lessons-and-reviews__lessons-button--25")[0].innerHTML;
+        var updated_lesson = html.slice(0, 26) + ' <div style="font-size:10px">' + output + '</div>' + html.slice(26);
+
+        document.getElementsByClassName("lessons-and-reviews__lessons-button--25")[0].innerHTML = updated_lesson; 
+        
+        var html = document.getElementsByClassName("lessons-and-reviews__reviews-button--0")[0].innerHTML;
+        var updated_review = html.slice(0, 26) + ' <div style="font-size:10px">&nbsp    </div>' + html.slice(26);
+        
+        console.log(updated_review);
+        document.getElementsByClassName("lessons-and-reviews__reviews-button--0")[0].innerHTML = updated_review; 
+
+
     }
 
 })();
