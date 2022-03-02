@@ -1,6 +1,6 @@
 import requests
 
-TOKEN = "YOUR_API_KEY_HERE"
+TOKEN = "271243b2-17ba-4241-bcad-23a711ce1760"
 
 
 def wanikani_client(url: str, ids: str = None) -> str:
