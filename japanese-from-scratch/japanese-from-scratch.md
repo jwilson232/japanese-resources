@@ -1,4 +1,4 @@
-# Japanese From Scratch
+# Grammar Notes
 Notes on the [Japanese From Scratch](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) Youtube series
 - [Lesson 1](#lesson-1)
 - [Lesson 2](#lesson-2)
