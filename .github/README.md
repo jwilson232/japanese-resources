@@ -1,1 +1,1 @@
-../japanese-from-scratch.md
+../japanese-from-scratch/japanese-from-scratch.md
