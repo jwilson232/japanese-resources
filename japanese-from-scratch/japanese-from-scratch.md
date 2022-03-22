@@ -1,4 +1,4 @@
-# Grammar Notes
+# Japanese From Scratch
 Notes on the [Japanese From Scratch](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) Youtube series
 - [Lesson 1](#lesson-1)
 - [Lesson 2](#lesson-2)
@@ -97,7 +97,7 @@ When we change a noun from one logical particle to another we change what is hap
 
 ```As for me, (I) throw the ball to Sakura → 私は [Øが] さくらに ボールを 投げる```
 
-```As for the ball, I throw (it) to Sakura → ボールをは 私が さくらに [Øを] 投げる```
+```As for the ball, I throw (it) to Sakura → ボールは 私が さくらに [Øを] 投げる```
 
 ```As for Sakura, I throw the ball (to her) → さくらは 私が ボールを [Øに] 投げる```
 
@@ -154,7 +154,7 @@ Relative time nouns do not require a particle when prefacing a sentence:
 
 ```Tomorrow I will eat cake - 明日ケエキを食べる```
 
-Where as relative time nouns such as Tuesday, 6 o clock, February must use the に particle. 
+Where as non-relative time nouns such as Tuesday, 6 o clock, February must use the に particle. 
 
 ```六時にケイキを食べる - at 6 o clock I will eat cake```
 
@@ -274,7 +274,7 @@ We can move the noun to the start of the sentence to describe to the dog, but we
 
 `やんちゃだ犬が寝ている　→　The naughty dog is sleeping`
 
-This is what textbooks cal the `na adjective`, which is confusing as they are nouns. We cant do this with every noun.
+This is what textbooks call the `na adjective`, which is confusing as they are nouns. We cant do this with every noun.
 
 #### の Particle
 
@@ -285,7 +285,7 @@ The `の` particle works the same as `'s` in English.
 `私のはな　→ My's (my) nose`
 
 The `の` particle works the same as `'s` in English.
-We don't ned to worry about things like his, your, yours etc in Japanese. As `の` is a possessive particle, we can use it to define the class to which something belongs. 
+We don't need to worry about things like his, your, yours etc in Japanese. As `の` is a possessive particle, we can use it to define the class to which something belongs. 
 
 With the word `赤い` the `い` means `is` so `赤い` means is red, but not all adjectives have this `い` form. For example `ピンク色 (pink color)` has no `い` form, so we have to instead use `の` to use it as an adjectives:
 
