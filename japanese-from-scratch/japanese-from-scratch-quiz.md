@@ -23,6 +23,7 @@ Lesson 3:
 Lesson 4:
 
 - Explain the non-past tense
+- Explain the continues present tense?
 - What can is, are and am be represented as? eg. I am walking, You are walking, Sakura is Walking
 - How do you say the dog is eating in the continues present tense and the past tense?
 - Explain the difference between relative and non-relative time nouns with examples
