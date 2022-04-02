@@ -6,7 +6,8 @@ Notes on the [Japanese From Scratch](https://www.youtube.com/playlist?list=PLg9u
 - [Lesson 4](#lesson-4)
 - [Lesson 5](#lesson-5)
 - [Lesson 6](#lesson-6)
-  
+- [Lesson 7](#lesson-7)
+
 ## Lesson 1
 #### There are three types of Japanese core sentence
 
@@ -294,3 +295,115 @@ With the word `赤い` the `い` means `is` so `赤い` means is red, but not al
 `うさぎのオスカル　→ Rabbit belonging to the class of Oscar　→　Oscar the rabbit`
 
 Completed worksheet 2 instead of example sentences.
+
+## Lesson 7
+
+#### Negatives 
+The fundamental basis of negatives is the adjective `ない`, and it means `non-exist/not`. To exist instead uses the adjective `ある`. `ない` is an adjective as no action is taking place.
+
+`ペンがある -> The pen exists`
+
+`ペンがない -> The pen doesn't exist`
+
+We must change the `だ` to `で` as it is the `て` form. 
+
+`これはペンだ -> This is a pen`
+
+`これはペンではない -> This is not a pen`
+
+#### あ Verb Stem
+
+To "conjugate" verb stems simply shift from the `う` verb ending to an `あ` verb ending. The only exception is あ will instead become わ. After changing to an `あ` ending simply add `ない` to make it negative.
+
+`買う　→ 買わ`
+
+`聞く　→ 聞か`
+
+`話す　→ 話さ`
+
+`持つ　→ 持た`
+
+`死ぬ　→ 死な`
+
+`飛ぶ　→ 飛ば`
+
+`飲む　→ 飲ま`
+
+`撮る　→ 撮ら`
+
+#### Adjectives
+
+We have to change the `い` to a `く`.
+
+`赤い　→ 赤く`
+
+`かわいい　→ かわいく (cute)`
+
+`かわい　→ こわく (scary)`
+
+We can then change them into the `て` form. 
+
+`赤い　→ 赤くて`
+
+`かわいい　→ かわいくて`
+
+`かわい　→ こわくて`
+
+And the negative form. 
+
+`赤い　→ 赤くない (not red)`
+
+`かわいい　→ かわいくない (not cute)`
+
+`かわい　→ こわくない (not scary)`
+
+To put an adjective into the past tense, we take of the `い` and add `かった`.
+
+`赤い　→ 赤かった (It was red)`
+
+`かわいい　→ かわいかった (It was cute)`
+
+`かわい　→ こわかった (It was scary)`
+
+As `ない` is also an adjective we can change it to `なかた`.
+
+`赤い　→ 赤なかった (It wasn't red)`
+
+`かわいい　→ かわいなかった (It wasn't cute)`
+
+`かわい　→ こわなかった (It wasn't scary)`
+
+|              | Non-past                                       | Past                                  |
+| ------------ | ---------------------------------------------- | ------------------------------------- |
+| **Positive** |  さくらが走る (Sakura Runs)                      |  さくらが走った (Sakura Ran)            |
+| **Negative** |  さくらが走らない (Sakura isn't running)          | さくらが走らなかった (Sakura didn't run) |
+
+#### Present tense
+
+We know that usually we would say:
+
+`さくらが走っている (Sakura is running)`
+
+`さくらが走った (Sakura was running)`
+
+We can convert these both into the negative:
+
+`さくらが走っていない (Sakura is not running)`
+
+`さくらが走っていなかった (Sakura was not running)`
+
+#### Two exceptions
+
+The verb `ます` is a helper verb which makes words formal. We add it to the `い` ending so:
+
+`話す　→ 話します`
+
+`聞く　→　聞きます`
+
+When you put `ます` into the negative it does not become `ますない` but instead becomes `ません`, because it's formal it uses the old Japanese negative `せん`.
+
+The adjective `いい` (which means good) turns back to the older form `よいい` whenever any transformations are made. So in the past tense:
+
+`いい　→ よくない (not good)`
+
+`いい　→ よかった (was good)`
