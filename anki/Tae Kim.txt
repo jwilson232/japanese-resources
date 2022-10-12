@@ -1,0 +1,80 @@
+人だ	Is person
+学生だ	Is student
+元気だ	Is well
+学生じゃない	Is not student
+友達じゃない	Is not friend
+元気じゃない	Is not well
+学生だった	Was student
+友達だった	Was friend
+元気だった	Was well
+学生じゃなかった	Was not student
+友達じゃなかった	Was not friend
+元気じゃなかった	Was not well
+ボブ：アリスは学生？<br>アリス：うん、学生	Alice: Is Alice (you) student?<br>Bob: Yeah, (I) am.&nbsp;
+&nbsp;ボブ：ジョンは明日？<br>アリス：ううん、明日じゃない。	Bob: John is tomorrow?<br>Alice: No, not tomorrow.
+アリス：今日は試験だ。<br>ボブ：ジョンは？<br>アリス：ジョンは明日。	Alice: Today is test.<br>Bob: What about John?<br>Alice: John is tomorrow. (As for John, the exam is tomorrow.)
+<div>ボブ：アリスは学生？</div> <div>アリス：うん、トムも学生。</div>	<div>Bob: Is Alice (you) student?</div> <div>Alice: Yeah, and Tom is&nbsp;also&nbsp;student.</div>
+<div>ボブ：アリスは学生？</div> <div>アリス：うん、でもトムは学生じゃない。</div>	<div>Bob: Is Alice (you) student?<br><div>Alice: Yeah, but Tom is not student.</div></div>
+<div>ボブ：アリスは学生？</div> <div>アリス：ううん、トムも学生じゃない。</div>	<div>Bob: Is Alice (you) student?</div> <div>Alice: No, and Tom is also not student.</div>
+<div>ボブ：誰が学生？</div> <div>アリス：ジョンが学生。</div>	<div>Bob: Who is the one that is student?</div> <div>Alice: John is the one who is student.<br><br>ぼぶ：だれが学生？<br>ありす：じょんが学生</div>
+<div>1. 誰が学生？</div> <div>2. 学生は誰？</div>	1. Who is the one that is student?<br>2. (The) student is who?
+1. 私は学生。<br>2. 私が学生。	1. As for me, (I am) student.<br>2. I (am) the one (that is) student.
+大きな人	Big person - おおきなひと
+きれいな人	Pretty person - きれいなひと
+友達は親切	Friend is kind - ともだちはしんせつ
+友達は親切な人だ	Friend is kind person - ともだちはしんせつなひとだ
+ボブは魚が好きだ	Bob likes fish - ぼぶはさかなすきだ
+ボブは魚が好きじゃない	Bob does not like fish - ぼぶはさかながすきじゃない
+ボブは魚が好きだった	Bob liked fish - ぼぶはさかながすきだった
+ボブは魚が好きじゃなかった	Bob did not like fish - ぼぶはさかながすきじゃないかた
+魚が好きな人	Person that likes fish - さかながすきなひと
+魚が好きじゃない人	Person that does not like fish - さかな好きじゃないひと
+魚が好きだった人	Person that liked fish - さかながすきだったひと
+魚が好きじゃなかった人	Person that did not like fish - さかながすきじゃなかったひと
+魚が好きじゃない人は、肉が好きだ	Person who does not like fish, like meat - さかながすきじゃないひとは、にくがすきだ
+好きな食べ物	Liked food - すきなたべもの
+おいしい食べ物	Tasty food - おいしいたべもの
+高いビル	Tall building - たかいびる
+高くないビル	Not tall building - たかくないびる
+高かったビル	Building that was tall - たかかったびる
+高くなかったビル	Building that was not tall - たかくなかったびろ
+値段が高いレストランはあまり好きじゃない	Dont like high price restaurants very much&nbsp;<br><br>ねだんがれすとらんはあまりすきじゃない<br><br>値段 - ねだん - Price<br>あまり - Not very&nbsp;
+いい	Good<br><br>Went from 良い to いい but uses 良い when conjugated
+よくない	Not good&nbsp;<br><br>Went from 良い to いい but uses 良い when conjugated
+よかった	Was good&nbsp;<br><br>Went from 良い to いい but uses 良い when conjugated
+よくなかった	Was not good&nbsp;<br><br>Went from 良い to いい but uses 良い when conjugated
+かっこういい	Cool/Handsome&nbsp;<br><br>いい at the end conjugates similar to 良い (いい)
+かっこよくない	Not cool/handsome<br><br>いい at the end conjugates similar to 良い (いい)
+かっこよかった	Was cool/handsome<br><br>いい at the end conjugates similar to 良い (いい)
+かっこよくなかった	Was not cool/handsome&nbsp;<br><br>いい at the end conjugates similar to 良い (いい)
+値段があんまりよくない	"Price isn't very good<br><br>値段 - ねだん - price<br>あんまり - not very (adds ん when used with negative)"
+彼はかっこよかった	He looked very cool<br><br>彼 - かれ (he)
+行く	To go (u-verb)
+出る	To leave (ru-verb)
+する	To do (exception verb)
+買う	To buy (u-verb)
+売る	To sell (u-verb)
+食べる	To eat (ru-verb)
+入る	To enter (u-verb)
+来る	To come (exception verb)
+飲む	To drink (u-verb)
+見る	To see (ru-verb)&nbsp;
+切る	To cut (u-verb)
+&nbsp;アリスは食べない	As for Alice, does not eat - ありすはたべない
+ジマが泳がない	Jim is the one that does not swim - じまがおよがない
+ボブもしない	Bob also does not do - ぼぶもしない
+お金がない	There is no money - おかねがない
+私は買わない	As for me, not buy - わたしはかわない
+猫はいない	There is no cat - ねこはいない (いない for animate objects)
+ご飯は、食べた	As for meal, ate - ごはんは、たべた
+映画は、全部見た	As for movie, saw them all - えいがは、ぜんぶみた
+今日は、走った	As for today, ran - きょうは、はしった
+友達が来た	Friend is the one that came - ともだちがきた
+私も飲んだ	I also drank - わたしものんだ
+勉強は、した	About study, did it - べんきょうは、した
+アリスは食べなかった	As for Alice, did not eat - ありすはたべなかった
+ジマがしなかった	Jim is the one that did not do
+ボブも行かなかった	Bob also did not go - ぼぶもいかなかった
+お金がなかった	There was no money - おかねがなかった
+私は買わなかった	As for me, did not buy - わたしはかわなかった
+猫はいなかった	There was no cat - ねこはいなかった
