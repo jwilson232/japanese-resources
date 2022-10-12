@@ -1,12 +1,17 @@
 import requests
 
-TOKEN = "271243b2-17ba-4241-bcad-23a711ce1760"
+TOKEN = ""
 
 
 def wanikani_client(url: str, ids: str = None) -> str:
+    api_key = open("../passwords","r")
+    passwords = api_key.readlines()
+    token = passwords[0]
+    api_key.close()
+
     headers = {
         "Wanikani-Revision": "20170710",
-        "Authorization": "Bearer {token}".format(token=TOKEN)
+        "Authorization": "Bearer {token}".format(token=token)
     }
 
     query_params = {
