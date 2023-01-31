@@ -10,15 +10,15 @@
 学生じゃなかった	Was not student
 友達じゃなかった	Was not friend
 元気じゃなかった	Was not well
-ボブ：アリスは学生？<br>アリス：うん、学生	Alice: Is Alice (you) student?<br>Bob: Yeah, (I) am.&nbsp;
-&nbsp;ボブ：ジョンは明日？<br>アリス：ううん、明日じゃない。	Bob: John is tomorrow?<br>Alice: No, not tomorrow.
-アリス：今日は試験だ。<br>ボブ：ジョンは？<br>アリス：ジョンは明日。	Alice: Today is test.<br>Bob: What about John?<br>Alice: John is tomorrow. (As for John, the exam is tomorrow.)
-<div>ボブ：アリスは学生？</div> <div>アリス：うん、トムも学生。</div>	<div>Bob: Is Alice (you) student?</div> <div>Alice: Yeah, and Tom is&nbsp;also&nbsp;student.</div>
-<div>ボブ：アリスは学生？</div> <div>アリス：うん、でもトムは学生じゃない。</div>	<div>Bob: Is Alice (you) student?<br><div>Alice: Yeah, but Tom is not student.</div></div>
-<div>ボブ：アリスは学生？</div> <div>アリス：ううん、トムも学生じゃない。</div>	<div>Bob: Is Alice (you) student?</div> <div>Alice: No, and Tom is also not student.</div>
-<div>ボブ：誰が学生？</div> <div>アリス：ジョンが学生。</div>	<div>Bob: Who is the one that is student?</div> <div>Alice: John is the one who is student.<br><br>ぼぶ：だれが学生？<br>ありす：じょんが学生</div>
-<div>1. 誰が学生？</div> <div>2. 学生は誰？</div>	1. Who is the one that is student?<br>2. (The) student is who?
-1. 私は学生。<br>2. 私が学生。	1. As for me, (I am) student.<br>2. I (am) the one (that is) student.
+ボブ：アリスは学生？ アリス：うん、学生	Alice: Is Alice (you) student? Bob: Yeah, (I) am.
+ボブ：ジョンは明日？ アリス：ううん、明日じゃない。	Bob: John is tomorrow? Alice: No, not tomorrow.
+アリス：今日は試験だ。 ボブ：ジョンは？ アリス：ジョンは明日。	Alice: Today is test. Bob: What about John? Alice: John is tomorrow. (As for John, the exam is tomorrow.)
+ボブ：アリスは学生？ アリス：うん、トムも学生。	Bob: Is Alice (you) student? Alice: Yeah, and Tom is also student.
+ボブ：アリスは学生？ アリス：うん、でもトムは学生じゃない。	Bob: Is Alice (you) student? Alice: Yeah, but Tom is not student.
+ボブ：アリスは学生？ アリス：ううん、トムも学生じゃない。	Bob: Is Alice (you) student? Alice: No, and Tom is also not student.
+ボブ：誰が学生？ アリス：ジョンが学生。	Bob: Who is the one that is student? Alice: John is the one who is student. ぼぶ：だれが学生？ ありす：じょんが学生
+1. 誰が学生？ 2. 学生は誰？	1. Who is the one that is student? 2. (The) student is who?
+1. 私は学生。 2. 私が学生。	1. As for me, (I am) student. 2. I (am) the one (that is) student.
 大きな人	Big person - おおきなひと
 きれいな人	Pretty person - きれいなひと
 友達は親切	Friend is kind - ともだちはしんせつ
@@ -38,17 +38,17 @@
 高くないビル	Not tall building - たかくないびる
 高かったビル	Building that was tall - たかかったびる
 高くなかったビル	Building that was not tall - たかくなかったびろ
-値段が高いレストランはあまり好きじゃない	Dont like high price restaurants very much&nbsp;<br><br>ねだんがれすとらんはあまりすきじゃない<br><br>値段 - ねだん - Price<br>あまり - Not very&nbsp;
-いい	Good<br><br>Went from 良い to いい but uses 良い when conjugated
-よくない	Not good&nbsp;<br><br>Went from 良い to いい but uses 良い when conjugated
-よかった	Was good&nbsp;<br><br>Went from 良い to いい but uses 良い when conjugated
-よくなかった	Was not good&nbsp;<br><br>Went from 良い to いい but uses 良い when conjugated
-かっこういい	Cool/Handsome&nbsp;<br><br>いい at the end conjugates similar to 良い (いい)
-かっこよくない	Not cool/handsome<br><br>いい at the end conjugates similar to 良い (いい)
-かっこよかった	Was cool/handsome<br><br>いい at the end conjugates similar to 良い (いい)
-かっこよくなかった	Was not cool/handsome&nbsp;<br><br>いい at the end conjugates similar to 良い (いい)
-値段があんまりよくない	"Price isn't very good<br><br>値段 - ねだん - price<br>あんまり - not very (adds ん when used with negative)"
-彼はかっこよかった	He looked very cool<br><br>彼 - かれ (he)
+値段が高いレストランはあまり好きじゃない	Dont like high price restaurants very much ねだんがれすとらんはあまりすきじゃない 値段 - ねだん - Price あまり - Not very
+いい	Good Went from 良い to いい but uses 良い when conjugated
+よくない	Not good Went from 良い to いい but uses 良い when conjugated
+よかった	Was good Went from 良い to いい but uses 良い when conjugated
+よくなかった	Was not good Went from 良い to いい but uses 良い when conjugated
+かっこういい	Cool/Handsome いい at the end conjugates similar to 良い (いい)
+かっこよくない	Not cool/handsome いい at the end conjugates similar to 良い (いい)
+かっこよかった	Was cool/handsome いい at the end conjugates similar to 良い (いい)
+かっこよくなかった	Was not cool/handsome いい at the end conjugates similar to 良い (いい)
+値段があんまりよくない	"Price isn't very good 値段 - ねだん - price あんまり - not very (adds ん when used with negative)"
+彼はかっこよかった	He looked very cool 彼 - かれ (he)
 行く	To go (u-verb)
 出る	To leave (ru-verb)
 する	To do (exception verb)
@@ -58,9 +58,9 @@
 入る	To enter (u-verb)
 来る	To come (exception verb)
 飲む	To drink (u-verb)
-見る	To see (ru-verb)&nbsp;
+見る	To see (ru-verb)
 切る	To cut (u-verb)
-&nbsp;アリスは食べない	As for Alice, does not eat - ありすはたべない
+アリスは食べない	As for Alice, does not eat - ありすはたべない
 ジマが泳がない	Jim is the one that does not swim - じまがおよがない
 ボブもしない	Bob also does not do - ぼぶもしない
 お金がない	There is no money - おかねがない
@@ -78,3 +78,142 @@
 お金がなかった	There was no money - おかねがなかった
 私は買わなかった	As for me, did not buy - わたしはかわなかった
 猫はいなかった	There was no cat - ねこはいなかった
+魚を食べる	Eat fish - さかなをたべる
+ジュイスを飲んだ	Drank juice - じゅいすをのんだ
+都市をぶらぶら歩く	Aimlessly walk through city - としをぶらぶらあるく
+毎日、日本語を勉強する	Study Japanese everyday - まいにち、にほんごをべんきょうする When you use 「する」 with a noun, the 「を」 particle is optional and you can treat the whole [noun+する] as one verb
+ボブは日本に行った	Bob went to Japan - ぼぶはにほんにいった
+部屋にくる	Come to room - へやにくる
+アリスは、アメリカからきた	Alice came from America
+宿題を今日から明日までする	Will do homework from today to tomorrow - しゅくだいをきょうからあしたまでする
+猫は部屋にいる	Cat is in room - ねこはへやにいる Don’t forget to use 「ある」 for inanimate objects such as the chair and 「いる」 for animate objects such as the cat.
+いい友達に会った	Met good friend - いいともだちにあった
+ジマは医者になる	Jim will become doctor - じまはいしゃになる
+ボブは日本へ行った	Bob headed towards Japan - ぼぶはにほんへいった
+部屋へくる	Come towards room - へやへくる
+勝ちへ向かう	Go towards victory - かちへむかう
+映画館で見た	Saw at movie theater - えいがかんでみた
+バスで帰る	Go home by bus - ばすでかえる
+レストランでご飯を食べた	Ate meal at restaurant - れすとらんでごはんをたべた
+1. 何できた? 2. バスできた	1. Came by the way of what? - なにできた 2. Came by the way of bus - ばすできた
+1. 何できた？ 2. 寒いから	1. なんできた？- Why did you come here 2. さむいから - Because im cold
+ボブ：学校に行った？ アリス：行かなかった ボブ：店には？ アリス：店にも行かなかった	"Bob: (Did you) go to school? Alice: Didn't go Bob: What about shop? Alice: Also didn't go to shop."
+ボブ：どこで食べる？ アリス：イタリアレストランではどう？	Bob: Eat where? Alice: How about Italian restaurant?
+私が電気をつけた	I am the one that turned on the lights - わたしがでんきをつけた (transative verb)
+電気がついた	The lights turned on - でんきがついた (intransitive/self)
+電気を消す	Turn off the lights - でんきをけす (transative / other move)
+電気が消える	Lights turn off - でんきをきえる (transative / self move)
+部屋を出た	I left room - へやをでた The only time you can use the 「を」 particle for intransitive verbs is when a location is the direct object of a motion verb as briefly described in the previous section.
+学生じゃない人は、学校に行かない	Person who is not student do not go to school.
+友達じゃなかったあアリスは、いい友達になった	Alice who was not a friend, became a good friend.
+先週医者だったボブは、仕事を辞めた	Bob who was a doctor last week quit his job.
+先週に映画を見た人は誰？	Who is the person who watched movie last week?
+ボブは、いつも勉強する人だ	Bob is a person who always studies
+赤いズボンを買う友達はボブだ	Friend who buy red pants is Bob
+ご飯を食べたかった人は、映画で見た銀行に行った	Person who did not eat meal went to the bank she saw at movie
+私は銀行で玉ねぎを食べた	I ate onions in the bank
+銀行で私は玉ねぎを食べた	At the bank I ate onions
+玉ねぎを私は銀行で食べた	I ate the onions in the bank
+玉ねぎを食べた	(I) ate onions
+ナイフとフォークでステーキを食べた。	Ate steak by means of knife and fork.
+友達と話した。	Talked with friend.
+先生と会った。	Met with teacher.
+飲み物やカップやナプキンは、いらない？	You don’t need (things like) drink, cup, or napkin, etc.?
+飲み物とかカップとかナプキンは、いらない？	You don’t need (things like) drink, cup, or napkin, etc.? 「とか」 also has the same meaning as 「や」 but is a slightly more colloquial expression.
+ボブの本。	"Book of Bob. Bob's book."
+本のボブ。	"Bob of book. Book's bob."
+ボブは、アメリカの大学の学生だ。	Bob is student of college of America.
+そのシャツは誰の？ ボブのだ。	Whose shirt is that? It is of Bob.
+白いのは、かわいい。	Thing that is white is cute.
+白い物は、かわいい。	Thing that is white is cute 白い - しろい 物 - もの
+毎日勉強するのは大変	The thing of studying ever day is tough. まいにち - 毎日 べんきょう - 勉強 だいへん - 大変
+毎日同じ物を食べるのは、面白いくない	"It's not interesting to eat same thing every day まいにち - 毎日 どう - 同 もの - 物 面白い - おもしろい"
+白いなのが、アリスの部屋だ	White one is room of Alice.
+今は不幸の	"The thing is that (I'm) unhappy now 今 - いま 不幸 - ふこう"
+今は不幸のだ	"The thing is that (I'm) unhappy now The だ makes this more masculine 今 - いま 不幸 - ふこう"
+今は不幸の？	Is it that (you) are unhappy now? (gender-neutral) 今 - いま 不幸 - ふこう
+1. ジムのだ。 2. ジムなのだ。	"1. It is of Jim (It is Jim's) 2. It is Jim (wih explanatory tone)"
+アリス：どこに行くの？ ボブ：銀行に行くんだ。	Alice: Where is it that (you) are going? Bob: It is that (I) go to bank. Better English: Alice: Where are you going? (Seeking explanation) Bob: I’m going to bank. (Explanatory) 銀行 - ぎんこう
+アリス：今、授業があるんじゃない？ ボブ：今は、ないんだ。	Literal: Alice: Isn’t it that there is class now? Bob: Now it is that there is no class. Better English: Alice: Don’t you have class now? (Expecting that there is class) Bob: No, there is no class now. (Explanatory) ある - To exist 授業 - じゅぎょう
+アリス：今、授業がないんじゃない？ ボブ：ううん、ある。	Alice: Isn’t it that there isn’t class now? Bob: No, there is. Better English: Alice: Don’t you not have class now? (Expecting that there is no class) Bob: No, I do have class. ある - To exist 授業 - じゅぎょう
+アリス：その人が買うんじゃなかったの？ ボブ：ううん、先生が買うんだ。	Alice: Wasn’t it that that person was the one to buy? Bob: No, it is that teacher is the one to buy. Better English: Alice: Wasn’t that person going to buy? (Expecting that the person would buy) Bob: No, the teacher is going to. (Explanatory)
+アリス：朝ご飯を食べるんじゃなかった。 ボブ：どうして？	Alice: It is that breakfast wasn’t to eat. Bob: Why? Better English: Alice: Should not have eaten breakfast, you know. (Explaining that breakfast wasn’t to be eaten) Bob: How come?
+ボブは朝ご飯を早く食べた	Bob quickly ate breakfast 朝ご飯 - あさごはん 早く - はやく　 食べた - たべた
+アリスは自分の部屋をきれいにした	Alice did her own room toward clean Alice cleaned her room Alice prettied up her room 自分 - じぶん 部屋 - へや きれい - Pretty
+映画をたくさん見た	Saw a lot of movies 映画 - えいが たくさん Lots 見た - みた
+最近、全然食べない	Lately, dont eat at all 最近 - さいきん 全然 - ぜんぜん
+ボブの声は、結構大きい	"Bob's voice is fairly large 声 - こえ 結構 - けっこう (fairly) 大きい - おおきい"
+この町は、最近大きく変わった	This town had changed greatly lately. 町 - まち 最近 - さいきん　 大きく - おおきく 変わった - かわった
+図書館の中では、静かにする	Within the library, [we] do things quietly. 図書館 - としょかん 中 - なか 静か - しずか
+ボブ：いい天気だね。 アリス：そうね。	"Bob: Good weather, huh? Alice: That is so, isn't it? 天気 - てんき"
+アリス：面白い映画だったね ボブ：え？全然面白くなかった	Alice: That was interesting movie, wasn’t it? Bob: Huh? No, it wasn’t interesting at all. 面白い - おもしろい
+アリス：時間がないよ。 ボブ：大丈夫だよ。	Alice: You know, there is no time. Bob: It’s ok, you know. 時間 - じかん 大丈夫 - だいじょうぶ
+アリス：今日はいい天気だね。 ボブ：うん。でも、明日雨が降るよ。	Alice: Good weather today, huh? Bob: Yeah. But it will rain tomorrow, you know. 今日 - きょう 天気 - てんき 明日 - あした 雨 - あめ 降る - ふる
+アリス：ボブは、魚が好きなんだよね。 ボブ：そうだね。	Alice: You know, you like fish, dontcha? Bob: That is so, huh?
+昨日、友達遊びにきた	Yesterday, friend came to play 昨日 - きのう 友達 - ともだち 遊び - あそび
+明日、大学に行きます	Tomorrow, go to college 明日 - あした 大学 - だいがう 行き - 行き
+先週、ボブに会いましたよ	You know, met Bob last week 先週 - せんしゅう 会いました - あいました
+晩ご飯を食べませんでしたね	Didnt eat dinner, huh? 晩ご飯 - ばんごはん 食べる - たべる
+面白くない映画は見ません	About not interesting movies, do not see (them) 面白い - 面白い 映画 - えいが 見 - み
+子犬はとても好きです	About puppies, like very much. 子犬 - こいぬ 好き - すき
+昨日、時計がなかったんです	It was that there was no time yesterday 昨日 - きのう 時計 - とけい
+その部屋はあまり静かじゃないです	That room is not very quiet 部屋 - へや 静か - しずか
+その部屋はあまり静かじゃないですよ	You know, that room is not very quiet. 部屋 - へや 静か - しずか
+その部屋はあまり静かじゃありませんよ	You know, that room is not very quiet 部屋 - へや 静か - しずか
+私の名前はキムです。	My name is Kim. (Neutral, polite)
+僕の名前はキムです。	My name is Kim. (Masculine, polite)
+僕の名前はボブだ。	My name is Bob. (Masculine, casual)
+俺の名前はボブだ。	My name is Bob. (Masculine, casual) 俺 - おれ
+あたしの名前はアリス。	My name is Alice. (Feminine, casual)
+田中さん：お母さんはどこですか。 鈴木さん：母は買い物に行きました。	Tanaka-san: Where is (your) mother? Suzuki-san: (My) mother went shopping. 田中 【た・なか】 – Tanaka (last name) お母さん【お・かあ・さん】 – mother (polite) どこ – where 母 【はは】 – mother 買い物 【か・い・もの】 – shopping 行く 【い・く】 (u-verb) – to go
+キムさん：イタリア料理を食べに行きませんか。 鈴木さん：すみません。ちょっと、お腹がいっぱいです。	Kim-san: Go to eat Italian food? Suzuki-san: Sorry. (My) stomach is a little full. イタリア – Italy 料理 【りょう・り】 – cooking; cuisine; dish 食べる 【た・べる】 (ru-verb) – to eat すみません – sorry (polite) ちょっと – a little お腹 【お・なか】 – stomach いっぱい – full
+こんなのを本当に食べるか？	Do you think [he/she] will really eat this type of thing? こんな – this sort of 本当 【ほん・とう】 – real 食べる 【た・べる】 (ru-verb) – to eat
+そんなのは、あるかよ！	Do I look like I would have something like that?! そんな – that sort of ある (u-verb) – to exist (inanimate)
+こんなのを本当に食べる？	Are you really going to eat something like this? こんな – this sort of 本当 【ほん・とう】 – real 食べる 【た・べる】 (ru-verb) – to eat
+そんなのは、あるの？	Do you have something like that? そんな – that sort of ある (u-verb) – to exist (inanimate)
+昨日何を食べたか忘れた。	Forgot what I ate yesterday. 昨日【きのう】 – yesterday 何【なに】 – what 食べる 【た・べる】 (ru-verb) – to eat 忘れる 【わす・れる】 (ru-verb) – to forget
+彼は何を言ったか分からない。	Don’t understand what he said. 彼 【かれ】 – he; boyfriend 言う 【い・う】 (u-verb) – to say 分かる 【わ・かる】 (u-verb) – to understand
+先生が学校に行ったか教えない？	Won’t you inform me whether teacher went to school? 先生 【せん・せい】 – teacher 学校 【がっ・こう】 – school 行く 【い・く】 (u-verb) – to go 教える 【おし・える】 (ru-verb) – to teach; to inform どう – how 知る 【し・る】 (u-verb) – to know
+誰かがおいしいクッキーを全部食べた。	Someone ate all the delicious cookies. 誰か 【だれか】 – someone おいしい (i-adj) – tasty クッキー – cookie 全部 【ぜん・ぶ】 – everything 食べる 【た・べる】 (ru-verb) – to eat
+誰が盗んだのか、誰か知りませんか。	Doesn’t anybody know who stole it? 誰 【だれ】 – who 盗む 【ぬす・む】 (u-verb) – to steal 誰か 【だれか】 – someone 知る 【し・る】 (u-verb) – to know
+犯人をどこかで見ましたか。	Did you see the criminal somewhere? 犯人 【はん・にん】 – criminal 見る 【み・る】 (ru-verb) – to see この – this （abbr. of これの） どこか – somewhere
+この中からどれかを選ぶの。	(Explaining) You are to select a certain one from inside this (selection). この – this （abbr. of これの） 中 【なか】 – inside ～から (particle) – from ～ 選ぶ 【えら・ぶ】 (u-verb) – to select
+先生が学校に行ったかどうか知らない。	Don’t know whether or not teacher went to school. 「どうか」- whether or not
+先生が学校に行ったか行かなかったか知らない。	Don’t know whether teacher went to school or didn’t.
+この質問の答えは、誰も知らない。	Nobody knows the answer of this question. この – this （abbr. of これの） 質問 【しつ・もん】 – question 答え 【こた・え】 – answer 誰も 【だれ・も】 – everybody/nobody 知る 【し・る】 (u-verb) – to know
+友達はいつも遅れる。	Friend is always late. 友達 【とも・だち】 – friend 遅れる 【おく・れる】 (ru-verb) – to be late いつも - always
+ここにあるレストランはどれもおいしくない	Any and all restaurants that are here are not tasty. ここ - here どれも - any and all
+今週末は、どこにも行かなかった。	Went nowhere this weekend. どこも - Everywhere 今週末 【こん・しゅう・まつ】 – this weekend 行く 【い・く】 (u-verb) – to go
+この質問の答えは、誰でも分かる。	Anybody understands the answer of this question. この – this （abbr. of これの） 質問 【しつ・もん】 – question 答え 【こた・え】 – answer 誰でも【誰・でも】- anybody　 分かる 【わ・かる】 (u-verb) – to understand
+昼ご飯は、どこでもいいです。	About lunch, anywhere is good. 昼ご飯 【ひる・ご・はん】 – lunch いい (i-adj) – good どこでも - anywhere
+あの人は、本当に何でも食べる。	That person really eats anything. あの – that (over there) （abbr. of あれの） 人 【ひと】 – person 本当 【ほん・とう】 – real 何でも【なん・でも】 – Anything 食べる 【た・べる】 (ru-verb) – to eat
+私の部屋は、きれいで、静かで、とても好き	My room is clean, quiet, and I like it a lot. 私 【わたし】 – me; myself; I 部屋 【へ・や】 – room きれい (na-adj) – pretty; clean 静か 【しず・か】 (na-adj) – quiet とても – very 好き 【す・き】 (na-adj) – likable; desirable
+彼女は、学生じゃなくて、先生だ	She is not a student, she is a teacher. 彼女 【かの・じょ】 – she; girlfriend 学生 【がく・せい】 – student 先生 【せん・せい】 – teacher
+田中さんは、お金持ちで、かっこよくて、魅力的ですね。	Tanaka-san is rich, handsome, and charming, isn’t he? 田中 【た・なか】 – Tanaka (last name) お金持ち 【お・かね・も・ち】 – rich かっこいい (i-adj) – cool; handsome 魅力的 【み・りょく・てき】 – charming
+食堂に行って、昼ご飯を食べて、昼寝をする	I will go to cafeteria, eat lunch, and take a nap. 食堂 【しょく・どう】 – cafeteria 昼ご飯 【ひる・ご・はん】 – lunch 昼寝 【ひる・ね】 – afternoon nap
+食堂に行って、昼ご飯を食べて、昼寝をした	I went to cafeteria, ate lunch, and took a nap. 食堂 【しょく・どう】 – cafeteria 昼ご飯 【ひる・ご・はん】 – lunch 昼寝 【ひる・ね】 – afternoon nap
+時間がありまして、映画を見ました	There was time and I watched a movie. 時間 【じ・かん】 – time ある (u-verb) – to exist (inanimate) 映画 【えい・が】 – movie 見る 【み・る】 (ru-verb) – to see
+時間がなかったからパーティーに行きませんでした	There was no time so didn’t go to party. 時間 【じ・かん】 – time パーティー – party 行く 【い・く】 (u-verb) – to go
+友達からプレゼントが来た	Present came from friend. 友達 【とも・だち】 – friend プレゼント – present 来る 【く・る】 (exception) – to come
+友達だからプレゼントが来た。	Present came because (the person is) friend. (This sentence sounds a bit odd.) 友達 【とも・だち】 – friend プレゼント – present 来る 【く・る】 (exception) – to come
+田中さん：どうしてパーティーに行きませんでしたか 山田さん：時間がなかったからです。	Tanaka-san: Why didn’t you go to the party? Yamada-san: It’s because I didn’t have time. 田中 【た・なか】 – Tanaka (last name) どうして – why パーティー – party 行く 【い・く】 (u-verb) – to go 山田 【や・まだ】 – Yamada (last name) 時間 【じ・かん】 – time
+一郎：パーティーに行かなかったの？ 直子：うん、時間がなかったから。	Ichiro: You didn’t go to the party? Naoko: Yeah, because I didn’t have time. 一郎 【いち・ろう】 – Ichirou (first name) パーティー – party 行く 【い・く】 (u-verb) – to go 直子 【なお・こ】 – Naoko (first name) 時間 【じ・かん】 – time
+私は学生なので、お金がないんです。	Because I’m a student, I have no money (lit: there is no money).
+なので、友達に会う時間がない。	That’s why there’s no time to meet friend.
+時間がなかったんでパーティーに行かなかった。	Didn’t go to the party because there was no time.
+なんで、友達に会う時間がない。	That’s why there’s no time to meet friend.
+毎日運動したのに、全然痩せなかった	Despite exercising every day, I didn’t get thinner. 毎日 【まい・にち】 – everyday 運動 【うん・どう】 – exercise する (exception) – to do 全然 【ぜん・ぜん】 – not at all (when used with negative) 痩せる 【や・せる】 (ru-verb) – to become thin
+学生なのに、彼女は勉強しない。	Despite being a student, she does not study. 学生 【がく・せい】 – student 彼女 【かの・じょ】 – she; girlfriend 勉強 【べん・きょう】 – study
+デパートに行きましたが、何も欲しくなかったです。	I went to department store but there was nothing I wanted. デパート – department store 行く 【い・く】 (u-verb) – to go 何 【なに／なん】 – what 全然 【ぜん・ぜん】 – not at all (when used with negative) 欲しい 【ほ・しい】 (i-adj) – desirable
+友達に聞いたけど、知らなかった	I asked (or heard from) a friend but he (or I) didn’t know. 友達 【とも・だち】 – friend 聞く 【き・く】 (u-verb) – to ask; to listen 知る 【し・る】 (u-verb) – to know
+今日は暇だけど、明日は忙しい	I’m free today but I will be busy tomorrow. 今日 【きょう】 – today 暇 【ひま】 – free　(as in not busy) 明日 【あした】 – tomorrow 忙しい 【いそが・しい】 (i-adj) – busy
+だけど、彼がまだ好きなの。	That may be so, but it is that I still like him. [explanation, feminine tone] 彼 【かれ】 – he; boyfriend まだ – yet 好き 【す・き】 (na-adj) – likable; desirable
+デパートに行きましたが、いい物がたくさんありました。	I went to the department store and there was a lot of good stuff. デパート – department store 行く 【い・く】 (u-verb) – to go いい (i-adj) – good 物 【もの】 – object たくさん – a lot (amount)
+マトリックスを見たけど、面白かった。	I watched the “Matrix” and it was interesting. 見る 【み・る】 (ru-verb) – to see 面白い 【おも・しろ・い】(i-adj) – interesting
+Ａ：どうして友達じゃないんですか Ｂ：先生だし、年上だし・・・。	A: Why isn’t (he/she) friend [seeking explanation]? B: Well, he’s/she’s the teacher, and older… どうして – why 友達 【とも・だち】 – friend 先生 【せん・せい】 – teacher 年上 【とし・うえ】 – older
+Ａ：どうして彼が好きなの？ Ｂ：優しいし、かっこいいし、面白いから	A: Why (do you) like him? B: Because he’s kind, attractive, and interesting (among other things) どうして – why 彼 【かれ】 – he; boyfriend 好き 【す・き】 (na-adj) – likable 優しい 【やさ・しい】 (i-adj) – gentle; kind かっこいい (i-adj) – cool; handsome 面白い 【おも・し・ろい】 (i-adj) – interesting
+映画を見たり、本を読んだり、昼寝したりする。	I do things like (among other things) watch movies, read books, and take naps. 映画 【えい・が】 – movie 見る 【み・る】 (ru-verb) – to see 本 【ほん】 – book 読む 【よ・む】 (u-verb) – to read 昼寝 【ひる・ね】 – afternoon nap
+この大学の授業は簡単だったり、難しかったりする。	Class of this college is sometimes easy, sometimes difficult (and other times something else maybe). この – this （abbr. of これの） 大学 【だい・がく】 – college 授業 【じゅ・ぎょう】 – class 簡単 【かん・たん】 (na-adj) – simple 難しい 【むずか・しい】 (i-adj) – difficult
+映画を見たり、本を読んだりした。	I did things like (among other things) watch movies, and read books. 映画 【えい・が】 – movie 見る 【み・る】 (ru-verb) – to see 本 【ほん】 – book 読む 【よ・む】 (u-verb) – to read
+映画を見たり、本を読んだりしない	I don’t do things like (among other things) watch movies, and read books. 映画 【えい・が】 – movie 見る 【み・る】 (ru-verb) – to see 本 【ほん】 – book 読む 【よ・む】 (u-verb) – to read
+映画を見たり、本を読んだりしなかった。	I didn’t do things like (among other things) watch movies, and read books. 映画 【えい・が】 – movie 見る 【み・る】 (ru-verb) – to see 本 【ほん】 – book 読む 【よ・む】 (u-verb) – to read
